@@ -232,7 +232,7 @@ header {
 
 .container-pic {
     width: 100%;
-    background: url(/img/bg-1.jpg) no-repeat center top/cover;
+    background: url(../img/bg-1.jpg) no-repeat center top/cover;
 }
 
 
@@ -302,7 +302,7 @@ header {
 /* container-pic-pic */
 
 .container-pic-pic {
-    background: url(/img/bg-2.jpg) no-repeat  center/cover
+    background: url(../img/bg-2.jpg) no-repeat  center/cover
 }
 
 .container-pic-pic .picture-content {
@@ -356,7 +356,7 @@ header {
 /* container-pic-pic-pic */
 
 .container-pic-pic-pic {
-    background: url(/img/bg-3.jpg) no-repeat center top/cover;
+    background: url(../img/bg-3.jpg) no-repeat center top/cover;
 }
 
 /* Project */
@@ -396,15 +396,15 @@ header {
 }
 
 #post-1 {
-    background: url(/img/article-1.jpg) no-repeat center top/cover;
+    background: url(../img/article-1.jpg) no-repeat center top/cover;
 }
 
 #post-2 {
-    background: url(/img/article-2.jpg) no-repeat center top/cover;
+    background: url(../img/article-2.jpg) no-repeat center top/cover;
 }
 
 #post-3 {
-    background: url(/img/article-3.jpg) no-repeat center top/cover;
+    background: url(../img/article-3.jpg) no-repeat center top/cover;
 }
 
 .article-content {
@@ -444,10 +444,6 @@ header {
     background-color: #1B1A1A;
     border-radius: 20px;
 }
-
-
-
-
 
 
 /* Team */
