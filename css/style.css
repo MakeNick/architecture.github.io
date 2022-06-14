@@ -98,6 +98,7 @@ header {
     background: #ECE7E4;
     width: 100%;
     opacity: 0.9;
+    z-index: 999;
 }
 
 .menu-container {
